@@ -32,6 +32,9 @@ tracking requests and bugs. So please see
 and discussion, and please direct specific questions to [Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow).**
 
 ## Installation
+
+**`神经网络`**
+[参考网址](http://blog.csdn.net/wlmnzf/article/details/50994598)
 *See [Installing TensorFlow](https://www.tensorflow.org/get_started/os_setup.html) for instructions on how to install our release binaries or how to build from source.*
 
 People who are a little more adventurous can also try our nightly binaries:
