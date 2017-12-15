@@ -87,3 +87,5 @@ Learn more about the TensorFlow community at the [community page of tensorflow.o
 ## License
 
 [Apache License 2.0](LICENSE)
+
+[![神经网络参考资料](http://blog.csdn.net/wlmnzf/article/details/50994598)]
